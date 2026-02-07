@@ -128,18 +128,6 @@ asosiy yo‘nalishim — **real foydalanuvchilar ishlatayotgan tizimlar**.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 📬 Contact
 
 - 💬 Telegram: https://t.me/USERNAME  
