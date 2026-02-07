@@ -130,9 +130,9 @@ asosiy yo‘nalishim — **real foydalanuvchilar ishlatayotgan tizimlar**.
 
 ## 📬 Contact
 
-- 💬 Telegram: https://t.me/USERNAME  
-- 🌐 Website: https://yourwebsite.uz  
-- 📧 Email: yourmail@gmail.com  
+- 💬 Telegram: https://t.me/baxadevuz  
+- 🌐 Website: https://baxadevuz.vercel.app
+- 📧 Email: baxadev0121@gmail.com  
 
 ---
 
