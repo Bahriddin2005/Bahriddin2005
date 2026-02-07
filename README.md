@@ -86,7 +86,7 @@ asosiy yo‘nalishim — **real foydalanuvchilar ishlatayotgan tizimlar**.
 - Production deployment  
 
 👉 Website: https://iqromax.uz  
-👉 Repo: https://github.com/USERNAME/iqromax
+👉 Repo: https://github.com/Bahriddin2005/math-mastermind-028c4ecf.git
 
 ---
 
@@ -99,7 +99,7 @@ asosiy yo‘nalishim — **real foydalanuvchilar ishlatayotgan tizimlar**.
 - Mobile-first design  
 
 👉 Website: https://buxorobilimdonlarmaktabi.uz  
-👉 Repo: https://github.com/USERNAME/buxoro-bilimdonlar
+👉 Repo: https://github.com/Bahriddin2005/buxoro-maktab.git
 
 ---
 
@@ -112,11 +112,11 @@ asosiy yo‘nalishim — **real foydalanuvchilar ishlatayotgan tizimlar**.
 - Scalable architecture  
 
 👉 Website: https://skillswap.uz  
-👉 Repo: https://github.com/USERNAME/skillswap
+👉 Repo: https://github.com/Bahriddin2005/skillconnect-hub.git
 
 ---
 
-### 🔐 Telegram OTP Auth SaaS
+### 🔐 Telegram OTP Auth 
 **Production-ready authentication system**
 
 - Real-time OTP via Telegram  
@@ -124,16 +124,7 @@ asosiy yo‘nalishim — **real foydalanuvchilar ishlatayotgan tizimlar**.
 - Secure JWT-based sessions  
 - Web + Telegram integration  
 
-👉 Repo: https://github.com/USERNAME/telegram-otp-saas
-
----
-
-### 🤖 Telegram Automation Bot
-- User verification  
-- Notifications & automation  
-- SaaS / CRM integration  
-
-👉 Repo: https://github.com/USERNAME/telegram-saas-bot
+👉 Repo: https://github.com/Bahriddin2005/iqromax.uz_OTP_bot.git
 
 ---
 
