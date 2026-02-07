@@ -2,7 +2,7 @@
 
 # 👨‍💻 SHAVKATOV BAHRIDDIN | FULL STACK DEVELOPER
 ### 🚀 Senior Full Stack Developer | Python • Django • Java • JavaScript  
-### 🤖 Telegram Bots | 🧩 SaaS Architect
+### Web site | 🤖 Telegram Bots | 🧩 SaaS Architect
 
 <img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=blue" />
 <img src="https://img.shields.io/badge/Level-Senior-success" />
