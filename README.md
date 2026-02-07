@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 YOUR_NAME  
+# 👨‍💻 SHAVKATOV BAHRIDDIN | FULL STACK DEVELOPER
 ### 🚀 Senior Full Stack Developer | Python • Django • Java • JavaScript  
 ### 🤖 Telegram Bots | 🧩 SaaS Architect
 
